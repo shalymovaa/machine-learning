@@ -1,0 +1,1 @@
+Project contains One vs All, Decision tree, KNN methods with learning curves

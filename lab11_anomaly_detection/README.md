@@ -1,0 +1,1 @@
+![lab11_task.png](https://github.com/shalymovaa/machine-learning/blob/main/lab11_anomaly_detection/lab11_task.png?raw=true)
